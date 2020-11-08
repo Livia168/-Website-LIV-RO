@@ -1,6 +1,6 @@
 # LIV●RO
 Objetivos:
-- Nosso objetivo é desenvolver um website gratuito e aberto a todos os públicos, disponível em meio online que permita que os usuários façam a troca, doação e empréstimos de livros.
+- Nosso objetivo é desenvolver um website gratuito e aberto a todos os públicos, disponível em meio online que permita que os usuários façam troca, doação e empréstimos de livros.
 
 ## Equipe POLYVALENT
 - Julia Vitória de Oliveira Santos - [julinhassantos](https://github.com/julinhassantos)
